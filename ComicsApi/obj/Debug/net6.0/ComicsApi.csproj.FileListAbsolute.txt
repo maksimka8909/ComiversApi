@@ -127,3 +127,15 @@ C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\obj\
 C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\obj\Debug\net6.0\ref\ComicsApi.dll
 C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\obj\Debug\net6.0\ComicsApi.pdb
 C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\obj\Debug\net6.0\ComicsApi.genruntimeconfig.cache
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Zstandard.Net.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Renci.SshNet.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\Fobos\Desktop\Шарага\ДипКур\ComicsApi-master\ComicsApi\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
