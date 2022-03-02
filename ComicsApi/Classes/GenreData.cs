@@ -2,5 +2,5 @@
 
 public class GenreData
 {
-    
+    public int Id { get; set; }
 }
