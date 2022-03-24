@@ -110,26 +110,25 @@ namespace ComicsApi.Controllers
         // GET: api/TrackedComic/GetComics
         [HttpGet]
         [Route("GetComics")]
-        public ActionResult GetComics(string login)
+        public ActionResult GetComics(int idUser)
         {
             
             try
             {
                 List<TrackedComicsData> tracked = new List<TrackedComicsData>();
-                var currentUser = _context.Users.FirstOrDefault(user => user.Login == login );
-                if (currentUser == null)
-                {
-                    return new ObjectResult(new {message = "ERROR"});
-                }
-                else
-                {
-                    
                     var result = _context.TrackedComics
-                        .Where(bookmark  => bookmark.IdUser == currentUser.Id)
-                        .Select(x => x.IdComicsNavigation.Name)
-                        .ToList();
-                    return new ObjectResult(result);
-                }
+                        .Where(bookmark  => bookmark.IdUser == idUser)
+                        .Select(comic => new
+                        {
+                            id = comic.IdComics,
+                            name = comic.IdComicsNavigation.Name,
+                            cover = HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + comic.IdComicsNavigation.Cover,
+                            date = comic.IdComicsNavigation.DateOfIssue,
+                            description = comic.IdComicsNavigation.Description,
+                            author = comic.IdComicsNavigation.IdAuthorNavigation.Name + " " + comic.IdComicsNavigation.IdAuthorNavigation.Surname,
+                            editor = comic.IdComicsNavigation.IdEditorNavigation.Name
+                        }).ToList();
+                return new ObjectResult(result);
             }
             catch (Exception e)
             {

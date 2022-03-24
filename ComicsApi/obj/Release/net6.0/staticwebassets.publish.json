@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o/xOW1/BABlQpq5tF5/Qk+lw4w0s3rPQ/gHe4ZSsTeU=",
+  "Hash": "6RHa/b7Y8OpUULAOzEudZUACdtVEOnOHsi/doSu07Wc=",
   "Source": "ComicsApi",
   "BasePath": "_content/ComicsApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ComicsApi\\wwwroot",
       "Source": "ComicsApi",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Authors\\Dr2_AzmXcAEygiQ.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Authors\\Dr2_AzmXcAEygiQ.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Authors/Dr2_AzmXcAEygiQ.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\Authors\\Dr2_AzmXcAEygiQ.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Authors\\Kyle-cassidy-neil-gaiman-April-2013.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Authors\\Kyle-cassidy-neil-gaiman-April-2013.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Authors/Kyle-cassidy-neil-gaiman-April-2013.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\Authors\\Kyle-cassidy-neil-gaiman-April-2013.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Authors\\Robert_Kirkman_6_Headshot_thumb.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Authors\\Robert_Kirkman_6_Headshot_thumb.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Authors/Robert_Kirkman_6_Headshot_thumb.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\Authors\\Robert_Kirkman_6_Headshot_thumb.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\001.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\001.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/001.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\001.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\002.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\002.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/002.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\002.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\003.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\003.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/003.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\003.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\004.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\004.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/004.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\004.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\005.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\005.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/005.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\005.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\006.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\006.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/006.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\006.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\007.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\007.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/007.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\007.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\008.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\008.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/008.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\008.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\009.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\009.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/009.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\009.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\010.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\010.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/010.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\010.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\011.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\011.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/011.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\011.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\012.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\012.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/012.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\012.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\013.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\013.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/013.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\013.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\014.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\014.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/014.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\014.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\015.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\015.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/015.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\015.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\016.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\016.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/016.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\016.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\017.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\017.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/017.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\017.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\018.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\018.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/018.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\018.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\019.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\019.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/019.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\019.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\020.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\020.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/020.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\020.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\021.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\021.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/021.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\021.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\022.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\022.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/022.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\022.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\023.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\023.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/023.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\023.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\024.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\024.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/024.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\024.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\025.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\025.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/025.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\025.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\026.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23161\\026.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23161/026.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23161\\026.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\001.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\001.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/001.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\001.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\002.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\002.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/002.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\002.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\003.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\003.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/003.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\003.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\004.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\004.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/004.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\004.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\005.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\005.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/005.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\005.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\006.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\006.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/006.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\006.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\007.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\007.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/007.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\007.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\008.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\008.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/008.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\008.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\009.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\009.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/009.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\009.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\010.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\010.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/010.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\010.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\011.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\011.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/011.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\011.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\012.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\012.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/012.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\012.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\013.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\013.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/013.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\013.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\014.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\014.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/014.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\014.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\015.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\015.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/015.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\015.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\016.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\016.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/016.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\016.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\017.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\017.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/017.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\017.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\018.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\018.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/018.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\018.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\019.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\019.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/019.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\019.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\020.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\020.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/020.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\020.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\021.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\021.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/021.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\021.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\022.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\022.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/022.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\022.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\023.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\023.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/023.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\023.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\024.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\024.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/024.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\024.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\025.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\025.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/025.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\025.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\026.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\1\\archive_3407_23162\\026.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/1/archive_3407_23162/026.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\1\\archive_3407_23162\\026.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\001.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\001.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/001.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\001.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\002.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\002.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/002.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\002.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\003.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\003.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/003.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\003.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\004.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\004.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/004.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\004.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\005.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\005.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/005.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\005.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\006.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\006.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/006.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\006.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\007.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\007.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/007.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\007.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\008.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\008.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/008.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\008.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\009.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\009.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/009.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\009.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\010.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\010.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/010.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\010.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\011.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\011.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/011.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\011.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\012.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\012.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/012.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\012.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\013.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\013.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/013.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\013.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\014.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\014.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/014.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\014.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\015.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\015.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/015.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\015.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\016.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\016.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/016.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\016.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\017.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\017.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/017.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\017.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\018.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\018.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/018.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\018.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\019.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\019.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/019.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\019.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\020.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\020.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/020.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\020.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\021.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\021.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/021.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\021.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\022.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\022.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/022.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\022.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\023.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\023.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/023.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\023.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\024.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\024.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/024.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\024.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\025.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\025.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/025.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\025.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\026.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\026.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/026.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\026.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\027.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\027.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/027.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\027.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\028.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\028.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/028.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\028.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\029.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\029.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/029.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\029.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\030.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\030.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/030.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\030.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\031.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\031.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/031.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\031.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\032.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\032.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/032.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\032.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\033.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\033.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/033.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\033.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\034.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\034.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/034.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\034.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\035.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\035.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/035.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\035.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\036.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\036.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/036.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\036.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\037.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\037.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/037.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\037.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\038.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\038.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/038.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\038.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\039.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\039.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/039.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\039.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\040.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\040.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/040.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\040.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\041.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41016\\041.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41016/041.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41016\\041.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\001.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\001.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/001.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\001.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\002.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\002.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/002.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\002.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\003.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\003.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/003.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\003.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\004.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\004.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/004.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\004.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\005.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\005.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/005.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\005.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\006.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\006.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/006.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\006.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\007.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\007.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/007.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\007.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\008.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\008.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/008.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\008.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\009.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\009.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/009.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\009.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\010.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\010.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/010.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\010.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\011.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\011.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/011.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\011.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\012.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\012.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/012.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\012.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\013.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\013.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/013.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\013.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\014.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\014.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/014.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\014.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\015.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\015.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/015.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\015.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\016.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\016.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/016.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\016.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\017.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\017.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/017.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\017.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\018.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\018.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/018.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\018.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\019.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\019.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/019.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\019.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\020.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\020.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/020.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\020.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\021.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\021.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/021.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\021.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\022.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\022.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/022.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\022.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\023.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41017\\023.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41017/023.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41017\\023.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\001.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\001.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/001.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\001.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\002.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\002.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/002.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\002.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\003.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\003.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/003.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\003.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\004.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\004.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/004.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\004.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\005.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\005.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/005.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\005.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\006.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\006.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/006.jpg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\006.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\007.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\007.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/007.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\007.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\008.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\008.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/008.jpg",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\008.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\009.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\009.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/009.jpg",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\009.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\010.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\010.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/010.jpg",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\010.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\011.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\011.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/011.jpg",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\011.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\012.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\012.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/012.jpg",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\012.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\013.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\013.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/013.jpg",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\013.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\014.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\014.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/014.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\014.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\015.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\015.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/015.jpg",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\015.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\016.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\016.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/016.jpg",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\016.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\017.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\017.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/017.jpg",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\017.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\018.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\018.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/018.jpg",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\018.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\019.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\019.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/019.jpg",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\019.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\020.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\020.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/020.jpg",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\020.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\021.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\021.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/021.jpg",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\021.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\022.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\022.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/022.jpg",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\022.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\023.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\023.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/023.jpg",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\023.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\024.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\024.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/024.jpg",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\024.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\025.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41018\\025.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41018/025.jpg",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41018\\025.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\001.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\001.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/001.jpg",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\001.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\002.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\002.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/002.jpg",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\002.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\003.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\003.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/003.jpg",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\003.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\004.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\004.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/004.jpg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\004.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\005.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\005.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/005.jpg",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\005.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\006.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\006.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/006.jpg",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\006.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\007.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\007.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/007.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\007.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\008.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\008.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/008.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\008.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\009.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\009.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/009.jpg",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\009.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\010.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\010.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/010.jpg",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\010.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\011.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\011.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/011.jpg",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\011.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\012.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\012.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/012.jpg",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\012.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\013.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\013.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/013.jpg",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\013.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\014.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\014.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/014.jpg",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\014.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\015.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\015.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/015.jpg",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\015.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\016.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\016.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/016.jpg",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\016.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\017.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\017.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/017.jpg",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\017.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\018.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\018.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/018.jpg",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\018.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\019.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\019.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/019.jpg",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\019.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\020.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\020.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/020.jpg",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\020.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\021.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\021.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/021.jpg",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\021.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\022.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\022.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/022.jpg",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\022.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\023.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\023.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/023.jpg",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\023.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\024.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41019\\024.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41019/024.jpg",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41019\\024.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\001.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\001.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/001.jpg",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\001.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\002.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\002.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/002.jpg",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\002.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\003.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\003.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/003.jpg",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\003.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\004.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\004.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/004.jpg",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\004.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\005.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\005.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/005.jpg",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\005.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\006.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\006.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/006.jpg",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\006.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\007.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\007.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/007.jpg",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\007.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\008.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\008.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/008.jpg",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\008.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\009.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\009.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/009.jpg",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\009.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\010.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\010.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/010.jpg",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\010.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\011.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\011.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/011.jpg",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\011.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\012.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\012.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/012.jpg",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\012.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\013.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\013.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/013.jpg",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\013.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\014.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\014.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/014.jpg",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\014.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\015.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\015.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/015.jpg",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\015.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\016.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\016.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/016.jpg",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\016.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\017.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\017.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/017.jpg",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\017.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\018.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\018.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/018.jpg",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\018.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\019.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\019.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/019.jpg",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\019.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\020.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\020.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/020.jpg",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\020.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\021.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\021.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/021.jpg",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\021.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\022.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\022.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/022.jpg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\022.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\023.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\023.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/023.jpg",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\023.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\024.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\024.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/024.jpg",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\024.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\025.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Comics\\2\\archive_2221_41020\\025.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Comics/2/archive_2221_41020/025.jpg",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\Comics\\2\\archive_2221_41020\\025.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Covers\\1470912292_0.21191400.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Covers\\1470912292_0.21191400.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Covers/1470912292_0.21191400.jpg",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\Covers\\1470912292_0.21191400.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Covers\\1476052770_0.51811500.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Covers\\1476052770_0.51811500.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Covers/1476052770_0.51811500.jpg",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\Covers\\1476052770_0.51811500.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Covers\\1483324718_0.84178900.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Covers\\1483324718_0.84178900.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Covers/1483324718_0.84178900.jpg",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\Covers\\1483324718_0.84178900.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\1\\archive_3407_23161.zip",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\1\\archive_3407_23161.zip",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Download/1/archive_3407_23161.zip",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\Download\\1\\archive_3407_23161.zip"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\1\\archive_3407_23162.zip",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\1\\archive_3407_23162.zip",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Download/1/archive_3407_23162.zip",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\Download\\1\\archive_3407_23162.zip"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\2\\archive_2221_41016.zip",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\2\\archive_2221_41016.zip",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Download/2/archive_2221_41016.zip",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\Download\\2\\archive_2221_41016.zip"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\2\\archive_2221_41017.zip",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\2\\archive_2221_41017.zip",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Download/2/archive_2221_41017.zip",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\Download\\2\\archive_2221_41017.zip"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\2\\archive_2221_41018.zip",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\2\\archive_2221_41018.zip",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Download/2/archive_2221_41018.zip",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\Download\\2\\archive_2221_41018.zip"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\2\\archive_2221_41019.zip",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\2\\archive_2221_41019.zip",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Download/2/archive_2221_41019.zip",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\Download\\2\\archive_2221_41019.zip"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\2\\archive_2221_41020.zip",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\2\\archive_2221_41020.zip",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Download/2/archive_2221_41020.zip",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\Download\\2\\archive_2221_41020.zip"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Logos\\838177.png",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Logos\\838177.png",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Logos/838177.png",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\Logos\\838177.png"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Logos\\Dark-Horse-Comics-Logo.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Logos\\Dark-Horse-Comics-Logo.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Logos/Dark-Horse-Comics-Logo.jpg",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\Logos\\Dark-Horse-Comics-Logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Logos\\g4o_vIJR_s_6Zp-4pX5oYg.jpeg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Logos\\g4o_vIJR_s_6Zp-4pX5oYg.jpeg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Logos/g4o_vIJR_s_6Zp-4pX5oYg.jpeg",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\Logos\\g4o_vIJR_s_6Zp-4pX5oYg.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Logos\\Image_Comics_logo2-1.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Logos\\Image_Comics_logo2-1.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Logos/Image_Comics_logo2-1.jpg",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\Logos\\Image_Comics_logo2-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Logos\\jul210540__39437.1628101445.jpg",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Logos\\jul210540__39437.1628101445.jpg",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Logos/jul210540__39437.1628101445.jpg",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\Logos\\jul210540__39437.1628101445.jpg"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Users\\Nopicture.png",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Users\\Nopicture.png",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Users/Nopicture.png",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\Users\\Nopicture.png"
     },
     {
-      "Identity": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\Users\\Screenshot_1.png",
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Users\\Screenshot_1.png",
       "SourceId": "ComicsApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fobos\\Desktop\\Шарага\\ДипКур\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
       "BasePath": "_content/ComicsApi",
       "RelativePath": "Users/Screenshot_1.png",
       "AssetKind": "All",

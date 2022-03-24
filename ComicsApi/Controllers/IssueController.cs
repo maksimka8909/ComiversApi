@@ -113,11 +113,9 @@ namespace ComicsApi.Controllers
         public IActionResult GetIssueImages(int issueId)
         {
             var issue = _context.Issues.FirstOrDefault(issue1 => issue1.Id == issueId);
-            DirectoryInfo d = new DirectoryInfo(env.WebRootPath + issue.PathRead); //Assuming Test is your Folder
-
-            FileInfo[] Files = d.GetFiles("*.jpg"); //Getting Text files
+            DirectoryInfo d = new DirectoryInfo(env.WebRootPath + issue.PathRead); 
+            FileInfo[] Files = d.GetFiles("*.jpg");
             List<string> images = new List<string>();
-
             foreach(FileInfo file in Files )
             {
                 images.Add(HttpContext.Request.Scheme + "://" + HttpContext.Request.Host +  issue.PathRead  + "\\"+ file.Name);
@@ -141,5 +139,17 @@ namespace ComicsApi.Controllers
         {
             return Redirect(link);
         }
+
+        // GET: api/Issue/GetIssueFileById
+        [HttpGet]
+        [Route("GetIssueFileById")]
+        public IActionResult GetIssueForReading(int issueId)
+        {
+            var issue = _context.Issues.FirstOrDefault(issue1 => issue1.Id == issueId);
+            return Redirect(HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + issue.PathDownload);
+        }
+
+
+
     }
 }

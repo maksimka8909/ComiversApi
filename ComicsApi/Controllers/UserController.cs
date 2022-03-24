@@ -105,7 +105,7 @@ namespace ComicsApi.Controllers
 
             return NoContent();
         }
-
+        
         private bool UserExists(int id)
         {
             return _context.Users.Any(e => e.Id == id);
@@ -156,7 +156,8 @@ namespace ComicsApi.Controllers
                     int port = 587;
                     string smpt = "smtp.gmail.com";
                     SmtpClient smtp = new SmtpClient(smpt, port);
-                    smtp.Credentials = new NetworkCredential("fobos8909@gmail.com", "Sindbad8909");
+                    smtp.UseDefaultCredentials = false;
+                    smtp.Credentials = new NetworkCredential("fobos8909@gmail.com", "jcqcnuxhzpvbxzxq");
                     smtp.EnableSsl = true;
                     smtp.Send(m);
                     return new ObjectResult(new {key = CreateMD5(key)});   
@@ -176,25 +177,39 @@ namespace ComicsApi.Controllers
         // POST: api/User/Reg
         [HttpPost]
         [Route("Reg")]
-        public async Task<IActionResult> RegistUser(IFormFile avatar)
+        public async Task<IActionResult> RegistUser()
         {
             try
             {
+                IFormFile avatar = Request.Form.Files.FirstOrDefault();
                 string login = Request.Form["login"].ToString();
                 string password = Request.Form["password"].ToString();
                 string email = Request.Form["email"].ToString();
                 string name = Request.Form["name"].ToString();
-                
+                string path;
+                login = login.Replace("\"","");
+                password = password.Replace("\"", "");
+                email = email.Replace("\"", "");
+                name = name.Replace("\"","");
                 if (!Directory.Exists(env.WebRootPath + "\\Users"))
                 {
                     Directory.CreateDirectory(env.WebRootPath + "\\Users");
                 }
-                string path = $"\\Users\\" + avatar.FileName;
-                    
-                using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
+                
+                if(avatar != null)
                 {
-                    await avatar.CopyToAsync(fileStream);
+                    path = $"\\Users\\" + avatar.FileName;
+
+                    using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
+                    {
+                        await avatar.CopyToAsync(fileStream);
+                    }
                 }
+                else
+                {
+                    path = "\\Users\\Nopicture.png";
+                }
+                
                 User newUser = new User()
                 {
                     Login = login,
@@ -270,7 +285,42 @@ namespace ComicsApi.Controllers
             }
             return key;
         }
-        
-        
+
+        // GET: api/User/GetUserImages
+        [HttpGet]
+        [Route("GetUserImages")]
+        public IActionResult GetUserImages()
+        {
+            DirectoryInfo d = new DirectoryInfo(env.WebRootPath + "//Users"); 
+
+            FileInfo[] Files = d.GetFiles(); 
+            List<string> images = new List<string>();
+
+            foreach (FileInfo file in Files)
+            {
+                images.Add(HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + "\\Users\\" + file.Name);
+            }
+            return new ObjectResult(images);
+        }
+
+        // GET: api/User/CheckEmail
+        [HttpGet]
+        [Route("UpdateLog")]
+        public ActionResult UpdateLog(int idUser)
+        {
+            try
+            {
+                var result = _context.Users.FirstOrDefault(user => user.Id == idUser);
+                result.LastLog = DateTime.Now;
+                _context.Users.Update(result);
+                _context.SaveChanges();
+                return new ObjectResult(new { message = "Log updated" });
+            }
+            catch (Exception e)
+            {
+                return new ObjectResult(new { message = e.Message });
+            }
+        }
+
     }
 }

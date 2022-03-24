@@ -59,6 +59,26 @@ namespace ComicsApi.Controllers
             return new ObjectResult(result);
         }
 
+        // GET: api/Comic/Search
+        [HttpGet]
+        [Route("Search")]
+        public IActionResult Search(string searchRequest)
+        {
+            var result = _context.Comics
+                .Where(x => x.Name.Contains(searchRequest))
+                .Select(comic => new
+                {
+                    id = comic.Id,
+                    name = comic.Name,
+                    cover = HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + comic.Cover,
+                    date = comic.DateOfIssue,
+                    description = comic.Description,
+                    author = comic.IdAuthorNavigation.Name + " " + comic.IdAuthorNavigation.Surname,
+                    editor = comic.IdEditorNavigation.Name
+                }).ToList();
+            return new ObjectResult(result);
+        }
+
         // PUT: api/Comic/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
@@ -170,6 +190,22 @@ namespace ComicsApi.Controllers
                 return new ObjectResult(new {message = e.Message});
             }
             
+        }
+        // GET: api/Comic
+        [HttpGet]
+        [Route("GetComicsIssue")]
+        public IActionResult GetComicsIssue(int idComics)
+        {
+            var result = _context.ListOfIssues.Where(issue => issue.IdComics==idComics).Select(list => new
+            {
+                idIssue = list.IdIssue,
+                name = list.IdIssueNavigation.NameIssue,
+                nameFile = list.IdIssueNavigation.NameFile,
+                pathRead = HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + list.IdIssueNavigation.PathRead,
+                pathDownload = HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + list.IdIssueNavigation.PathDownload,
+                date = list.IdIssueNavigation.DateOfPublication.ToString()
+            }).OrderBy(list=>list.name).ToList();
+            return new ObjectResult(result);
         }
     }
 }
