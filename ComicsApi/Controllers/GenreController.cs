@@ -76,12 +76,18 @@ namespace ComicsApi.Controllers
         // POST: api/Genre
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Genre>> PostGenre(Genre genre)
+        public IActionResult PostGenre(Genre genre)
         {
-            _context.Genres.Add(genre);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetGenre", new { id = genre.Id }, genre);
+            if(_context.Genres.Any(e => e.Name == genre.Name))
+            {
+               return new ObjectResult(new { key = "EXIST" });
+            }
+            else
+            {
+                _context.Genres.Add(genre);
+                _context.SaveChanges();
+                return new ObjectResult(new { key = "ADD" });
+            }
         }
 
         // DELETE: api/Genre/5

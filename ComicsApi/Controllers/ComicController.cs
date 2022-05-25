@@ -113,12 +113,50 @@ namespace ComicsApi.Controllers
         // POST: api/Comic
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Comic>> PostComic(Comic comic)
+        public async Task<IActionResult> PostComic(IFormFile cover)
         {
-            _context.Comics.Add(comic);
-            await _context.SaveChangesAsync();
+            string name = Request.Form["name"].ToString();
+            DateTime date = Convert.ToDateTime(Request.Form["date"].ToString());
+            string description = Request.Form["description"].ToString();
+            int idAuthor = Convert.ToInt32(Request.Form["idAuthor"].ToString());
+            int idEditor = Convert.ToInt32(Request.Form["idEditor"].ToString());
+            if (_context.Comics.Any(i => i.Name == name))
+            {
+                return new ObjectResult(new { key = "EXIST" });
+            }
+            else
+            {
+                if (!Directory.Exists(env.WebRootPath + "\\Covers"))
+                {
+                    Directory.CreateDirectory(env.WebRootPath + "\\Covers");
+                }
+                string path = $"\\Covers\\" + cover.FileName;
 
-            return CreatedAtAction("GetComic", new { id = comic.Id }, comic);
+                using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
+                {
+                    await cover.CopyToAsync(fileStream);
+                }
+                Comic comic = new Comic()
+                {
+                    DateOfIssue = date,
+                    Description = description,
+                    IdEditor = idEditor,
+                    IdAuthor = idAuthor,
+                    Name = name,
+                    Cover = path
+                };
+                _context.Comics.Add(comic);
+                _context.SaveChanges();
+                var result = _context.Comics.FirstOrDefault(comic => comic.Name == name);
+                if (result == null)
+                {
+                    return new ObjectResult(new { message = "ERROR" });
+                }
+                else
+                {
+                    return new ObjectResult(new { message = "ADD" });
+                }
+            }
         }
 
         // DELETE: api/Comic/5
@@ -140,56 +178,6 @@ namespace ComicsApi.Controllers
         private bool ComicExists(int id)
         {
             return _context.Comics.Any(e => e.Id == id);
-        }
-        
-        // POST: api/Comic/Reg
-        [HttpPost]
-        [Route("Reg")]
-        public async Task<IActionResult> RegistComic(IFormFile cover)
-        {
-            try
-            {
-                string name = Request.Form["name"].ToString();
-                DateTime date = Convert.ToDateTime(Request.Form["date"].ToString());
-                string description  = Request.Form["description"].ToString();
-                int idAuthor = Convert.ToInt32(Request.Form["idAuthor"].ToString());
-                int idEditor = Convert.ToInt32(Request.Form["idEditor"].ToString());
-                if (!Directory.Exists(env.WebRootPath + "\\Covers"))
-                {
-                    Directory.CreateDirectory(env.WebRootPath + "\\Covers");
-                }
-                string path = $"\\Covers\\" + cover.FileName;
-                    
-                using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
-                {
-                    await cover.CopyToAsync(fileStream);
-                }
-                Comic comic = new Comic()
-                {
-                    DateOfIssue = date,
-                    Description = description,
-                    IdEditor = idEditor,
-                    IdAuthor = idAuthor,
-                    Name = name,
-                    Cover = path
-                };
-                _context.Comics.Add(comic);
-                _context.SaveChanges();
-                var result = _context.Comics.FirstOrDefault(comic => comic.Name == name);
-                if (result == null)
-                {
-                    return new ObjectResult(new {message = "ERROR"});
-                }
-                else
-                {
-                    return new ObjectResult(new {message = "OK"});
-                }
-            }
-            catch (Exception e)
-            {
-                return new ObjectResult(new {message = e.Message});
-            }
-            
         }
         // GET: api/Comic
         [HttpGet]

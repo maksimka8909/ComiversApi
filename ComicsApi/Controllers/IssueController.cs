@@ -140,16 +140,13 @@ namespace ComicsApi.Controllers
             return Redirect(link);
         }
 
-        // GET: api/Issue/GetIssueFileById
-        [HttpGet]
-        [Route("GetIssueFileById")]
-        public IActionResult GetIssueForReading(int issueId)
-        {
-            var issue = _context.Issues.FirstOrDefault(issue1 => issue1.Id == issueId);
-            return Redirect(HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + issue.PathDownload);
-        }
-
-
-
+        //// GET: api/Issue/GetIssueFileById
+        //[HttpGet]
+        //[Route("GetIssueFileById")]
+        //public IActionResult GetIssueForReading(int issueId)
+        //{
+        //    var issue = _context.Issues.FirstOrDefault(issue1 => issue1.Id == issueId);
+        //    return Redirect(HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + issue.PathDownload);
+        //}
     }
 }

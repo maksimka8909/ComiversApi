@@ -78,12 +78,34 @@ namespace ComicsApi.Controllers
         // POST: api/Editor
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Editor>> PostEditor(Editor editor)
+        public async Task<IActionResult> PostEditor(IFormFile logo)
         {
-            _context.Editors.Add(editor);
-            await _context.SaveChangesAsync();
+            string name = Request.Form["name"].ToString();
+            if (_context.Editors.Any(e => e.Name == name))
+            {
+                return new ObjectResult(new { key = "EXIST" });
+            }
+            else
+            {
+                if (!Directory.Exists(env.WebRootPath + "\\Logos"))
+                {
+                    Directory.CreateDirectory(env.WebRootPath + "\\Logos");
+                }
+                string path = $"\\Logos\\" + logo.FileName;
 
-            return CreatedAtAction("GetEditor", new { id = editor.Id }, editor);
+                using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
+                {
+                    await logo.CopyToAsync(fileStream);
+                }
+                Editor editor = new Editor()
+                {
+                    Name = name,
+                    Photo = path
+                };
+                _context.Editors.Add(editor);
+                _context.SaveChanges();
+                return new ObjectResult(new { key = "ADD" });
+            }
         }
 
         // DELETE: api/Editor/5
@@ -105,48 +127,6 @@ namespace ComicsApi.Controllers
         private bool EditorExists(int id)
         {
             return _context.Editors.Any(e => e.Id == id);
-        }
-        
-        // POST: api/Editor/Reg
-        [HttpPost]
-        [Route("Reg")]
-        public async Task<IActionResult> RegistEditor(IFormFile logo)
-        {
-            try
-            {
-                string name = Request.Form["name"].ToString();
-                if (!Directory.Exists(env.WebRootPath + "\\Logos"))
-                {
-                    Directory.CreateDirectory(env.WebRootPath + "\\Logos");
-                }
-                string path = $"\\Logos\\" + logo.FileName;
-                    
-                using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
-                {
-                    await logo.CopyToAsync(fileStream);
-                }
-                Editor editor = new Editor()
-                {
-                    Name = name,
-                    Photo = path
-                };
-                _context.Editors.Add(editor);
-                _context.SaveChanges();
-                var result = _context.Editors.FirstOrDefault(editor => editor.Name == name);
-                if (result == null)
-                {
-                    return new ObjectResult(new {message = "ERROR"});
-                }
-                else
-                {
-                    return new ObjectResult(new {message = "OK"});
-                }
-            }
-            catch (Exception e)
-            {
-                return new ObjectResult(new {message = e.Message});
-            }
-            
         }
     }
 }

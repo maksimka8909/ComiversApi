@@ -16,7 +16,7 @@ namespace ComicsApi.Controllers
     {
         private readonly comics_lib_dbContext _context;
         private readonly IWebHostEnvironment env;
-        
+
         public AuthorController(comics_lib_dbContext context,IWebHostEnvironment env)
         {
             _context = context;
@@ -78,12 +78,49 @@ namespace ComicsApi.Controllers
         // POST: api/Author
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Author>> PostAuthor(Author author)
+        public async Task<IActionResult> PostAuthor(IFormFile image)
         {
-            _context.Authors.Add(author);
-            await _context.SaveChangesAsync();
+            try
+            {
+                string surname = Request.Form["surname"].ToString();
+                string name = Request.Form["name"].ToString();
+                string middleName = Request.Form["middleName"].ToString();
+                string description = Request.Form["description"].ToString();
+                DateTime birthday = Convert.ToDateTime(Request.Form["birthday"].ToString());
+                if (_context.Authors.Any(e => e.Name ==name && e.Surname == surname && e.MiddleName == middleName))
+                {
+                    return new ObjectResult(new { key = "EXIST" });
+                }
+                else
+                {
+                    if (!Directory.Exists(env.WebRootPath + "\\Authors"))
+                    {
+                        Directory.CreateDirectory(env.WebRootPath + "\\Authors");
+                    }
+                    string path = $"\\Authors\\" + image.FileName;
 
-            return CreatedAtAction("GetAuthor", new { id = author.Id }, author);
+                    using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
+                    {
+                        await image.CopyToAsync(fileStream);
+                    }
+                    Author author = new Author()
+                    {
+                        MiddleName = middleName,
+                        Surname = surname,
+                        Name = name,
+                        Photo = path,
+                        Description = description,
+                        Birthday = birthday
+                    };
+                    _context.Authors.Add(author);
+                    _context.SaveChanges();
+                    return new ObjectResult(new { key = "ADD" });
+                }
+            }
+            catch (Exception e)
+            {
+                return new ObjectResult(new { key = e.ToString() });
+            }
         }
 
         // DELETE: api/Author/5
@@ -106,47 +143,6 @@ namespace ComicsApi.Controllers
         {
             return _context.Authors.Any(e => e.Id == id);
         }
-        
-        // POST: api/download/addAuthor
-        [HttpPost]
-        [Route("AddAuthor")]
-        public async Task<IActionResult> AddAuthor(IFormFile image)
-        {
-            try
-            {
-                string surname = Request.Form["surname"].ToString();
-                string name = Request.Form["name"].ToString();
-                string middleName = Request.Form["middleName"].ToString();
-                string description = Request.Form["description"].ToString();
-                DateTime birthday = Convert.ToDateTime(Request.Form["birthday"].ToString());
-                
-                if (!Directory.Exists(env.WebRootPath + "\\Authors"))
-                {
-                    Directory.CreateDirectory(env.WebRootPath + "\\Authors");
-                }
-                string path = $"\\Authors\\" + image.FileName;
-                    
-                using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
-                {
-                     await image.CopyToAsync(fileStream);
-                }
-                Author author = new Author()
-                {
-                    MiddleName = middleName,
-                    Surname = surname,
-                    Name = name,
-                    Photo = path,
-                    Description = description,
-                    Birthday = birthday
-                };
-                _context.Authors.Add(author);
-                _context.SaveChanges();
-                return new ObjectResult(new {key = "OK"});
-            }
-            catch (Exception e)
-            {
-                return new ObjectResult(new {key = e.Message});
-            }
-        }
+     
     }
 }

@@ -26,12 +26,14 @@
         <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.13" />
         <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.1" />
         <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.22" />
+        <PackageReference Include="MySqlBackup.NET" Version="2.3.6.1" />
         <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.1" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
         <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
     </ItemGroup>
 
     <ItemGroup>
+      <Folder Include="wwwroot\Backups\" />
       <Folder Include="wwwroot\Comics" />
       <Folder Include="wwwroot\Download" />
     </ItemGroup>

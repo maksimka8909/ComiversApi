@@ -60,8 +60,9 @@ C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Ou
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\MySql.Data.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\Ubiety.Dns.Core.dll
-C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\Zstandard.Net.dll
+C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\ZstdNet.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\MySqlBackup.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\MySqlConnector.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
@@ -75,8 +76,6 @@ C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Ou
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\NuGet.Protocol.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\NuGet.Versioning.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\Renci.SshNet.dll
-C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\SshNet.Security.Cryptography.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -94,7 +93,6 @@ C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Ou
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\System.Windows.Extensions.dll
-C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\System.Xml.XPath.XmlDocument.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll

@@ -1,4 +1,4 @@
-#nullable disable
+ #nullable disable
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,9 +29,62 @@ namespace ComicsApi.Controllers
 
         // GET: api/User
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<User>>> GetUsers()
+        public IActionResult GetUsers()
         {
-            return await _context.Users.ToListAsync();
+            var result = _context.Users.Where(user => user.Role == true).Select(user => new
+            {
+                id = user.Id,
+                login = user.Login,
+                name = user.Name,
+                email = user.Email,
+                lastLog = user.LastLog,
+                access = user.Access
+            }).ToList();
+            return new ObjectResult(result);
+        }
+
+        // GET: api/User/search
+        [HttpGet]
+        [Route("Search")]
+        public IActionResult UsersSearch(string request)
+        {
+            var result = _context.Users.Where(user => user.Role == true && user.Login.Contains(request)).Select(user => new
+            {
+                id = user.Id,
+                login = user.Login,
+                name = user.Name,
+                email = user.Email,
+                lastLog = user.LastLog,
+                access = user.Access
+            }).ToList();
+            return new ObjectResult(result);
+        }
+
+        // GET: api/User/changestate
+        [HttpGet]
+        [Route("ChangeState")]
+        public IActionResult ChangeState(int id)
+        {
+            var result = _context.Users.Where(user => user.Id == id).FirstOrDefault();
+            if (result != null)
+            {
+                if (result.Access == true)
+                {
+                    result.Access = false;
+                }
+                else
+                {
+                    result.Access = true;
+                }
+                _context.Users.Update(result);
+                _context.SaveChanges();
+                return new ObjectResult(new { result = "OK" });
+            }
+            else
+            {
+                return new ObjectResult(new {result="ERROR"});
+            }
+            
         }
 
         // GET: api/User/5
