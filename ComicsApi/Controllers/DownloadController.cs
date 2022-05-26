@@ -29,43 +29,46 @@ namespace ComicsApi.Controllers
         [Route("AddFile")]
         public async Task<IActionResult> AddFile(IFormFile file)
         {
-            
             int comicsId = Int32.Parse(Request.Form["comicsId"]);
             string issueName = Request.Form["issueName"].ToString();
+            int issueNumber = Int32.Parse(Request.Form["issueNumber"]);
             try
             {
                 if (!Directory.Exists(env.WebRootPath + $"\\Download\\{comicsId.ToString()}"))
                 {
                     Directory.CreateDirectory(env.WebRootPath + $"\\Download\\{comicsId}");
                 }
-                string path = "\\Download\\" + comicsId + "\\" + file.FileName;
+                string path = "\\Download\\" + comicsId + $"\\{comicsId}_{issueNumber}_" + file.FileName;
                     
-                using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
+                using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create,FileAccess.Write))
                 {
                      await file.CopyToAsync(fileStream);
                 }
-                if (!Directory.Exists(env.WebRootPath + $"\\Comics\\{comicsId.ToString()}\\{Path.GetFileNameWithoutExtension(file.FileName)}"))
+                if (!Directory.Exists(env.WebRootPath + $"\\Comics\\{comicsId.ToString()}\\{comicsId}_{issueNumber}_{Path.GetFileNameWithoutExtension(file.FileName)}"))
                 {
-                    Directory.CreateDirectory(env.WebRootPath + $"\\Comics\\{comicsId}\\{Path.GetFileNameWithoutExtension(file.FileName)}");
+                    Directory.CreateDirectory(env.WebRootPath + $"\\Comics\\{comicsId}\\{comicsId}_{issueNumber}_{Path.GetFileNameWithoutExtension(file.FileName)}");
                 }
-                string targetFolder = env.WebRootPath + $"\\Comics\\{comicsId}\\{Path.GetFileNameWithoutExtension(file.FileName)}"; // папка, куда распаковывается файл
-                string zipFile = env.WebRootPath + $"\\Download\\{comicsId}\\{file.FileName}"; // сжатый файл
+                string targetFolder = env.WebRootPath + $"\\Comics\\{comicsId}\\{comicsId}_{issueNumber}_{Path.GetFileNameWithoutExtension(file.FileName)}"; // папка, куда распаковывается файл
+                string zipFile = env.WebRootPath + $"\\Download\\{comicsId}\\{comicsId}_{issueNumber}_{file.FileName}"; // сжатый файл
                 var result = Path.ChangeExtension(zipFile, ".zip");
                 System.IO.File.Move(zipFile, zipFile.Replace(Path.GetExtension(zipFile), ".zip"));
                 ZipFile.ExtractToDirectory(result, targetFolder);
                 Issue issue = new Issue()
                 {
-                    NameFile = Path.ChangeExtension(file.FileName, ".zip"),
-                    PathRead = $"\\Comics\\{comicsId}\\{Path.GetFileNameWithoutExtension(file.FileName)}",
-                    PathDownload = Path.ChangeExtension($"\\Download\\{comicsId}\\{file.FileName}", ".zip"),
-                    NameIssue = issueName
+                    NameFile = $"{comicsId}_{issueNumber}_"+Path.ChangeExtension(file.FileName, ".zip"),
+                    PathRead = $"\\Comics\\{comicsId}\\{comicsId}_{issueNumber}_{Path.GetFileNameWithoutExtension(file.FileName)}",
+                    PathDownload = Path.ChangeExtension($"\\Download\\{comicsId}\\{comicsId}_{issueNumber}_{file.FileName}", ".zip"),
+                    NameIssue = issueName,
+                    IssueNumber = issueNumber
                 };
                 _context.Issues.Add(issue);
                 _context.SaveChanges();
-                var newIssue = _context.Issues.FirstOrDefault(issue1 => issue1.NameFile == Path.ChangeExtension(file.FileName, ".zip") &&
+                var newIssue = _context.Issues.FirstOrDefault(issue1 => issue1.NameFile == $"{comicsId}_{issueNumber}_"+Path.ChangeExtension(file.FileName, ".zip") &&
                                                                         issue1.NameIssue == issueName && 
-                                                                        issue1.PathDownload == Path.ChangeExtension($"\\Download\\{comicsId}\\{file.FileName}", ".zip") && 
-                                                                        issue1.PathRead == $"\\Comics\\{comicsId}\\{Path.GetFileNameWithoutExtension(file.FileName)}");
+                                                                        issue1.PathDownload == Path.ChangeExtension($"\\Download\\{comicsId}\\{comicsId}_{issueNumber}_{file.FileName}", ".zip") && 
+                                                                        issue1.PathRead == $"\\Comics\\{comicsId}\\{comicsId}_{issueNumber}_{Path.GetFileNameWithoutExtension(file.FileName)}" &&
+                                                                        issue1.IssueNumber == issueNumber
+                                                                        );
                 ListOfIssue listOfIssue = new ListOfIssue()
                 {
                     IdComics = comicsId,

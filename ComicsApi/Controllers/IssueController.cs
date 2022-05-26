@@ -123,6 +123,24 @@ namespace ComicsApi.Controllers
             return new ObjectResult(images);
         }
         
+        // GET: api/Issue/CheckIssue
+        [HttpGet]
+        [Route("CheckIssue")]
+        public IActionResult CheckIssue(int issueNumber, int comicsId)
+        {
+            var response = _context.ListOfIssues.FirstOrDefault(record => record.IdComics == comicsId
+                                                                          && record.IdIssueNavigation.IssueNumber ==
+                                                                          issueNumber);
+            if (response == null)
+            {
+                return new ObjectResult(new {key = "OK"});
+            }
+            else
+            {
+                return new ObjectResult(new {key = "EXIST"});
+            }
+        }
+        
         // GET: api/Issue/GetIssueFileById
         [HttpGet]
         [Route("GetIssueFileById")]
@@ -139,14 +157,5 @@ namespace ComicsApi.Controllers
         {
             return Redirect(link);
         }
-
-        //// GET: api/Issue/GetIssueFileById
-        //[HttpGet]
-        //[Route("GetIssueFileById")]
-        //public IActionResult GetIssueForReading(int issueId)
-        //{
-        //    var issue = _context.Issues.FirstOrDefault(issue1 => issue1.Id == issueId);
-        //    return Redirect(HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + issue.PathDownload);
-        //}
     }
 }

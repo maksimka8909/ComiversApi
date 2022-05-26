@@ -36,6 +36,8 @@ namespace ComicsApi.Models
         [MySqlCollation("utf8_general_ci")]
         public string PathDownload { get; set; } = null!;
         public DateOnly DateOfPublication { get; set; }
+        [Column(TypeName = "int(11)")]
+        public int IssueNumber { get; set; }
 
         [InverseProperty(nameof(IssueReadByUser.IdIssueNavigation))]
         public virtual ICollection<IssueReadByUser> IssueReadByUsers { get; set; }

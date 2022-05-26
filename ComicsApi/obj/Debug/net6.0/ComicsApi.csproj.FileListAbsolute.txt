@@ -351,7 +351,6 @@ C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\ComicsApi.e
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\ComicsApi.deps.json
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\ComicsApi.runtimeconfig.json
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\ComicsApi.dll
-C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\ref\ComicsApi.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\ComicsApi.pdb
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\EntityFramework.SqlServer.dll
@@ -409,7 +408,6 @@ C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Microsoft.V
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\MySql.Data.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Ubiety.Dns.Core.dll
-C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Zstandard.Net.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Newtonsoft.Json.dll
@@ -424,8 +422,6 @@ C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\NuGet.Proje
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\NuGet.Protocol.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\NuGet.Versioning.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Renci.SshNet.dll
-C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\SshNet.Security.Cryptography.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -443,7 +439,6 @@ C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\System.Runt
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\System.Security.Permissions.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -634,3 +629,6 @@ C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Debug\net6.0\ComicsApi.d
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Debug\net6.0\ref\ComicsApi.dll
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Debug\net6.0\ComicsApi.pdb
 C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Debug\net6.0\ComicsApi.genruntimeconfig.cache
+C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\bin\Debug\net6.0\MySqlBackup.dll
+C:\Users\Fobos\Downloads\ComicsApi-master\ComicsApi\obj\Debug\net6.0\refint\ComicsApi.dll

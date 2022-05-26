@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
+
 namespace ComicsApi.Models
 {
     [Microsoft.EntityFrameworkCore.Index(nameof(IdAuthor), Name = "ID_Author")]
@@ -31,7 +32,7 @@ namespace ComicsApi.Models
         [MySqlCollation("utf8_general_ci")]
         public string Cover { get; set; } = null!;
         public DateTime DateOfIssue { get; set; }
-        [StringLength(512)]
+        [StringLength(1024)]
         [MySqlCharSet("utf8")]
         [MySqlCollation("utf8_general_ci")]
         public string? Description { get; set; }

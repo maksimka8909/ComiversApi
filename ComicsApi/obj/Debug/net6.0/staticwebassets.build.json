@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "30nhYN0oBXaABUs1Ir19D91NBe5a/EWv8iC7kfD2b6Q=",
+  "Hash": "sJAUlvFsLGdOSCRcb7+fdF7HkDNAO67x8lT1K8Gq2uo=",
   "Source": "ComicsApi",
   "BasePath": "_content/ComicsApi",
   "Mode": "Default",
@@ -3347,6 +3347,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Covers\\1483324718_0.84178900.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\1\\archive_3407_23161.cbr",
+      "SourceId": "ComicsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\",
+      "BasePath": "_content/ComicsApi",
+      "RelativePath": "Download/1/archive_3407_23161.cbr",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Download\\1\\archive_3407_23161.cbr"
     },
     {
       "Identity": "C:\\Users\\Fobos\\Downloads\\ComicsApi-master\\ComicsApi\\wwwroot\\Download\\1\\archive_3407_23161.zip",

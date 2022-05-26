@@ -37,7 +37,7 @@ namespace ComicsApi.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseMySql("server=194.32.248.98;user id=maxk;password=Maxk123!;persistsecurityinfo=True;database=comics_lib_db", Microsoft.EntityFrameworkCore.ServerVersion.Parse("5.7.36-mysql"));
+                optionsBuilder.UseMySql("server=gopher-server.xyz;database=comics_lib_db;uid=maxk;pwd=Maxk123!", Microsoft.EntityFrameworkCore.ServerVersion.Parse("5.7.36-mysql"));
             }
         }
 

@@ -251,7 +251,7 @@ namespace ComicsApi.Controllers
                 
                 if(avatar != null)
                 {
-                    path = $"\\Users\\" + avatar.FileName;
+                    path = $"\\Users\\{login}_" + avatar.FileName;
 
                     using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
                     {

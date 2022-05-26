@@ -130,7 +130,7 @@ namespace ComicsApi.Controllers
                 {
                     Directory.CreateDirectory(env.WebRootPath + "\\Covers");
                 }
-                string path = $"\\Covers\\" + cover.FileName;
+                string path = $"\\Covers\\{DateTime.Now.Ticks}_" + cover.FileName;
 
                 using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
                 {

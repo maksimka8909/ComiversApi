@@ -97,7 +97,7 @@ namespace ComicsApi.Controllers
                     {
                         Directory.CreateDirectory(env.WebRootPath + "\\Authors");
                     }
-                    string path = $"\\Authors\\" + image.FileName;
+                    string path = $"\\Authors\\{DateTime.Now.Ticks}_" + image.FileName;
 
                     using (var fileStream = new FileStream(env.WebRootPath + path, FileMode.Create))
                     {
