@@ -81,33 +81,25 @@ namespace ComicsApi.Controllers
 
         // PUT: api/Comic/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutComic(int id, Comic comic)
+        [HttpPut]
+        public IActionResult PutComic(int id, string name, string description, int idEditor, 
+            string dateOfIssue, int idAuthor)
         {
-            if (id != comic.Id)
+            if (_context.Comics.Where(i => i.Name == name).Any(e => e.Id != id))
             {
-                return BadRequest();
+                return new ObjectResult(new { key = "EXIST" });
             }
-
-            _context.Entry(comic).State = EntityState.Modified;
-
-            try
+            else
             {
-                await _context.SaveChangesAsync();
+                var response = _context.Comics.FirstOrDefault(i => i.Id == id);
+                response.Name = name;
+                response.Description = description;
+                response.IdEditor = idEditor;
+                response.DateOfIssue = Convert.ToDateTime(dateOfIssue);
+                response.IdAuthor = idAuthor;
+                _context.SaveChanges();
+                return new ObjectResult(new { key = "OK" });
             }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!ComicExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
         }
 
         // POST: api/Comic
@@ -191,7 +183,8 @@ namespace ComicsApi.Controllers
                 nameFile = list.IdIssueNavigation.NameFile,
                 pathRead = HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + list.IdIssueNavigation.PathRead,
                 pathDownload = HttpContext.Request.Scheme + "://" + HttpContext.Request.Host + list.IdIssueNavigation.PathDownload,
-                date = list.IdIssueNavigation.DateOfPublication.ToString()
+                date = list.IdIssueNavigation.DateOfPublication.ToString(),
+                issueNumber = list.IdIssueNavigation.IssueNumber
             }).OrderBy(list=>list.name).ToList();
             return new ObjectResult(result);
         }

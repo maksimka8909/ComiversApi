@@ -44,33 +44,19 @@ namespace ComicsApi.Controllers
 
         // PUT: api/Genre/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutGenre(int id, Genre genre)
+        [HttpPut]
+        public IActionResult PutGenre(Genre genre)
         {
-            if (id != genre.Id)
+            if(_context.Genres.Any(e => e.Name == genre.Name))
             {
-                return BadRequest();
+                return new ObjectResult(new { key = "EXIST" });
             }
-
-            _context.Entry(genre).State = EntityState.Modified;
-
-            try
+            else
             {
-                await _context.SaveChangesAsync();
+                _context.Genres.Update(genre);
+                _context.SaveChanges();
+                return new ObjectResult(new { key = "OK" });
             }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!GenreExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
         }
 
         // POST: api/Genre

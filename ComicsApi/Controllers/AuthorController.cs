@@ -46,33 +46,25 @@ namespace ComicsApi.Controllers
 
         // PUT: api/Author/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutAuthor(int id, Author author)
+        [HttpPut]
+        public IActionResult PutAuthor(int id, string name, string surname, string middleName, string birthday,
+            string description)
         {
-            if (id != author.Id)
+            if (_context.Authors.Where(e => e.Name ==name && e.Surname == surname && e.MiddleName == middleName).Any(e => e.Id != id))
             {
-                return BadRequest();
+                return new ObjectResult(new { key = "EXIST" });
             }
-
-            _context.Entry(author).State = EntityState.Modified;
-
-            try
+            else
             {
-                await _context.SaveChangesAsync();
+                var response = _context.Authors.FirstOrDefault(i => i.Id == id);
+                response.Name = name;
+                response.Surname = surname;
+                response.MiddleName = middleName;
+                response.Description = description;
+                response.Birthday = Convert.ToDateTime(birthday);
+                _context.SaveChanges();
+                return new ObjectResult(new { key = "OK" });
             }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!AuthorExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
         }
 
         // POST: api/Author

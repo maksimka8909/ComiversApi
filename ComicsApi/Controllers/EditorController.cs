@@ -46,33 +46,20 @@ namespace ComicsApi.Controllers
 
         // PUT: api/Editor/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutEditor(int id, Editor editor)
+        [HttpPut]
+        public IActionResult PutEditor(int id, string name)
         {
-            if (id != editor.Id)
+            if (_context.Editors.Where(i => i.Name == name).Any(e => e.Id != id))
             {
-                return BadRequest();
+                return new ObjectResult(new { key = "EXIST" });
             }
-
-            _context.Entry(editor).State = EntityState.Modified;
-
-            try
+            else
             {
-                await _context.SaveChangesAsync();
+                var response = _context.Editors.FirstOrDefault(i => i.Id == id);
+                response.Name = name;
+                _context.SaveChanges();
+                return new ObjectResult(new { key = "OK" });
             }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!EditorExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
         }
 
         // POST: api/Editor
