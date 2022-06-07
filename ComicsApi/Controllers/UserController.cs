@@ -199,7 +199,6 @@ namespace ComicsApi.Controllers
                 var result = _context.Users.FirstOrDefault(user => user.Email == email);
                 if ( result == null)
                 {
-
                     string key = GetKey(6);
                     MailAddress from = new MailAddress("fobos8909@gmail.com", "ComicsLibAgent");
                     MailAddress to = new MailAddress(email);
@@ -218,7 +217,6 @@ namespace ComicsApi.Controllers
                 else
                 {
                     return new ObjectResult(new {key = "ERROR"});
-                    
                 }
             }
             catch (Exception e)

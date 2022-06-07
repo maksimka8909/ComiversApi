@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ComicsApi.Classes;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -46,22 +47,25 @@ namespace ComicsApi.Controllers
 
         // PUT: api/Author/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut]
-        public IActionResult PutAuthor(int id, string name, string surname, string middleName, string birthday,
-            string description)
+        [HttpPost]
+        [Route("update")]
+        public IActionResult PutAuthor(AuthorClass authorClass)
         {
-            if (_context.Authors.Where(e => e.Name ==name && e.Surname == surname && e.MiddleName == middleName).Any(e => e.Id != id))
+            if (_context.Authors.Where(e => e.Name == authorClass.Name 
+                                            && e.Surname == authorClass.Surname 
+                                            && e.MiddleName == authorClass.MiddleName)
+                .Any(e => e.Id != authorClass.Id))
             {
                 return new ObjectResult(new { key = "EXIST" });
             }
             else
             {
-                var response = _context.Authors.FirstOrDefault(i => i.Id == id);
-                response.Name = name;
-                response.Surname = surname;
-                response.MiddleName = middleName;
-                response.Description = description;
-                response.Birthday = Convert.ToDateTime(birthday);
+                var response = _context.Authors.FirstOrDefault(i => i.Id == authorClass.Id);
+                response.Name = authorClass.Name;
+                response.Surname = authorClass.Surname;
+                response.MiddleName = authorClass.MiddleName;
+                response.Description = authorClass.Description;
+                response.Birthday = Convert.ToDateTime(authorClass.Birthday);
                 _context.SaveChanges();
                 return new ObjectResult(new { key = "OK" });
             }
@@ -129,11 +133,6 @@ namespace ComicsApi.Controllers
             await _context.SaveChangesAsync();
 
             return NoContent();
-        }
-
-        private bool AuthorExists(int id)
-        {
-            return _context.Authors.Any(e => e.Id == id);
         }
      
     }

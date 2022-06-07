@@ -40,6 +40,32 @@
 
     <ItemGroup>
       <_ContentIncludedByDefault Remove="wwwroot\Download\1\archive_3407_23161.zip" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\001.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\002.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\003.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\004.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\005.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\006.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\007.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\008.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\009.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\010.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\011.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\012.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\013.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\014.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\015.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\016.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\017.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\018.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\019.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\020.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\021.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\022.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\023.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\024.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\025.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Comics\1\archive_3407_23161\026.jpg" />
     </ItemGroup>
 
 </Project>

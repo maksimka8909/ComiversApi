@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ComicsApi.Models;
+using ComicsApi.Classes;
 
 namespace ComicsApi.Controllers
 {
@@ -46,19 +47,27 @@ namespace ComicsApi.Controllers
 
         // PUT: api/Editor/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut]
-        public IActionResult PutEditor(int id, string name)
+        [HttpPost]
+        [Route("updateEditor")]
+        public IActionResult PutEditor(EditorClass editor)
         {
-            if (_context.Editors.Where(i => i.Name == name).Any(e => e.Id != id))
+            try
             {
-                return new ObjectResult(new { key = "EXIST" });
+                if (_context.Editors.Where(i => i.Name == editor.Name).Any(e => e.Id != editor.Id))
+                {
+                    return new ObjectResult(new { key = "EXIST" });
+                }
+                else
+                {
+                    var response = _context.Editors.FirstOrDefault(i => i.Id == editor.Id);
+                    response.Name = editor.Name;
+                    _context.SaveChanges();
+                    return new ObjectResult(new { key = "OK" });
+                }
             }
-            else
+            catch(Exception e)
             {
-                var response = _context.Editors.FirstOrDefault(i => i.Id == id);
-                response.Name = name;
-                _context.SaveChanges();
-                return new ObjectResult(new { key = "OK" });
+                return new ObjectResult(new { key = e.Message });
             }
         }
 

@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ComicsApi.Classes;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -55,7 +56,7 @@ namespace ComicsApi.Controllers
                 description = comic.Description,
                 author = comic.IdAuthorNavigation.Name + " " + comic.IdAuthorNavigation.Surname,
                 editor = comic.IdEditorNavigation.Name
-            }).ToList();
+            }).FirstOrDefault();
             return new ObjectResult(result);
         }
 
@@ -81,22 +82,22 @@ namespace ComicsApi.Controllers
 
         // PUT: api/Comic/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut]
-        public IActionResult PutComic(int id, string name, string description, int idEditor, 
-            string dateOfIssue, int idAuthor)
+        [HttpPost]
+        [Route("update")]
+        public IActionResult PutComic(ComicsData comicsData)
         {
-            if (_context.Comics.Where(i => i.Name == name).Any(e => e.Id != id))
+            if (_context.Comics.Where(i => i.Name == comicsData.Name).Any(e => e.Id != comicsData.Id))
             {
                 return new ObjectResult(new { key = "EXIST" });
             }
             else
             {
-                var response = _context.Comics.FirstOrDefault(i => i.Id == id);
-                response.Name = name;
-                response.Description = description;
-                response.IdEditor = idEditor;
-                response.DateOfIssue = Convert.ToDateTime(dateOfIssue);
-                response.IdAuthor = idAuthor;
+                var response = _context.Comics.FirstOrDefault(i => i.Id == comicsData.Id);
+                response.Name = comicsData.Name;
+                response.Description = comicsData.Description;
+                response.IdEditor = comicsData.idEditor;
+                response.DateOfIssue = Convert.ToDateTime(comicsData.dateOfIssue);
+                response.IdAuthor = comicsData.idAuthor;
                 _context.SaveChanges();
                 return new ObjectResult(new { key = "OK" });
             }

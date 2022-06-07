@@ -118,7 +118,8 @@ namespace ComicsApi.Controllers
             List<string> images = new List<string>();
             foreach(FileInfo file in Files )
             {
-                images.Add(HttpContext.Request.Scheme + "://" + HttpContext.Request.Host +  issue.PathRead  + "\\"+ file.Name);
+                images.Add(HttpContext.Request.Scheme + "://" + HttpContext.Request.Host 
+                           +  issue.PathRead  + "\\"+ file.Name);
             }
             return new ObjectResult(images);
         }

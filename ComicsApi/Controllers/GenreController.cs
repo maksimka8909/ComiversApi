@@ -44,7 +44,8 @@ namespace ComicsApi.Controllers
 
         // PUT: api/Genre/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut]
+        [HttpPost]
+        [Route("update")]
         public IActionResult PutGenre(Genre genre)
         {
             if(_context.Genres.Any(e => e.Name == genre.Name))
